@@ -138,3 +138,7 @@ If `internalMessage` is populated in the configuration, it will be overridden by
 ##### 1.0.0
 
   - Initial commit
+
+##### 1.0.1
+
+  - Update dependencies
