@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+node_modules/
+*.orig
+.nyc_output
+coverage

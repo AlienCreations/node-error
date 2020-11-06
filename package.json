@@ -1,0 +1,31 @@
+{
+  "name": "@aliencreations/node-error",
+  "version": "1.0.0",
+  "description": "Error codes and a custom error function for Alien Creations node apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash ./run/env/test/run.sh",
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliencreations/node-error.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [],
+  "author": "Sean Cannon",
+  "bugs": {
+    "url": "https://github.com/aliencreations/node-error/issues"
+  },
+  "homepage": "https://github.com/aliencreations/node-error",
+  "devDependencies": {
+    "@aliencreations/eslint-config": "^1.1.0",
+    "eslint": "^7.0.0",
+    "jasmine": "^3.4.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "nyc": "^14.0.0"
+  }
+}
