@@ -131,7 +131,7 @@ console.log(err):
 ```
 
 You can add any additional details to `debug` for developers to read. For additional human-readable details, add them to `debug.internalMessage`. 
-If `internalMessage` is populated in the configuration, it will be overridden by the value passed in the `error` function,.
+If `internalMessage` is populated in the configuration, it will be overridden by the value passed in the `error` function.
 
 ## Changelog
 
@@ -142,3 +142,7 @@ If `internalMessage` is populated in the configuration, it will be overridden by
 ##### 1.0.1
 
   - Update dependencies
+
+##### 1.0.3
+
+  - Update README

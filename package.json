@@ -1,6 +1,6 @@
 {
   "name": "@aliencreations/node-error",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Error codes and a custom error function for Alien Creations node apps.",
   "main": "index.js",
   "scripts": {
