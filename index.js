@@ -19,9 +19,9 @@ const makeError = (
     name,
     code,
     statusCode,
-    isAppError : true,
-    message    : message + (messageContext && ': ' + messageContext),
-    debug      : {
+    isInternalError : true,
+    message         : message + (messageContext && ': ' + messageContext),
+    debug           : {
       internalMessage,
       ...debug
     }

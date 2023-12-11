@@ -146,3 +146,8 @@ If `internalMessage` is populated in the configuration, it will be overridden by
 ##### 1.0.3
 
   - Update README
+
+##### 1.0.3
+
+- Fix `isInternalError` typo
+
